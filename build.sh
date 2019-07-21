@@ -1,0 +1,1 @@
+jar cvf 01-simple-webapp.war *
